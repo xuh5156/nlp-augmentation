@@ -11,6 +11,8 @@
 - 2 [An Analysis of Simple Data Augmentation for Named Entity Recognition](https://arxiv.org/pdf/2010.11683.pdf) 2020
 - 3 [DAGA: Data Augmentation with a Generation Approach for Low-resource Tagging Tasks](https://www.aclweb.org/anthology/2020.emnlp-main.488.pdf)
 - 4 [Data Augmentation Approaches in Natural Language Processing: A Survey](https://arxiv.org/pdf/2110.01852.pdf) 2021
+- 5 [ AEDA: An Easier Data Augmentation Technique for Text Classification](https://arxiv.org/pdf/2108.13230.pdf) EMNLP2021
+    [代码](https://github.com/akkarimi/aeda_nlp)
 
 ## 博客
 - 1 [万字长文综述：给你的数据加上杠杆——文本增强技术的研究进展及应用实践](https://www.jiqizhixin.com/articles/2020-04-01-11) 2020
