@@ -13,6 +13,7 @@
 - 4 [Data Augmentation Approaches in Natural Language Processing: A Survey](https://arxiv.org/pdf/2110.01852.pdf) 2021
 - 5 [ AEDA: An Easier Data Augmentation Technique for Text Classification](https://arxiv.org/pdf/2108.13230.pdf) EMNLP2021
     [代码](https://github.com/akkarimi/aeda_nlp)
+- 6 [A Survey of Data Augmentation Approaches for NLP](https://arxiv.org/pdf/2105.03075.pdf) 2021
 
 ## 博客
 - 1 [万字长文综述：给你的数据加上杠杆——文本增强技术的研究进展及应用实践](https://www.jiqizhixin.com/articles/2020-04-01-11) 2020
@@ -22,3 +23,4 @@
 - 5 [打开你的脑洞：NER如何进行数据增强 ？](https://zhuanlan.zhihu.com/p/342032812)
 - 6 [赛尔笔记 | 自然语言处理领域的数据增广方法](https://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&mid=2650800510&idx=1&sn=acb92e516c59fe831bfb3ae0df397610&chksm=8cb89495bbcf1d83db0010cbe257e49bd01cba6d6cdc608c3a3cbc9257fe5785ba25c977709a&mpshare=1&scene=1&srcid=0128auRWMLRQl0kwUNx9rj5F&sharer_sharetime=1611799999257&sharer_shareid=f9b6c09fe3a8d0d82f571292bbc931d8&exportkey=AbA%2Bn9jykZ%2BENF5QL%2BDAXd4%3D&pass_ticket=%2FTNPW8FVMI%2BzZwlmE2V4chE0rfm0fvJ9h7xa5J7MujaZ2gqicapGOqMciOpylTAo&wx_header=0#rd)
 - 7 [哈工大｜15种NLP数据增强方法总结与对比](https://zhuanlan.zhihu.com/p/420295576) 2021
+- 8 [NLP 中的通用数据增强方法及针对 NER 的变种](https://zhuanlan.zhihu.com/p/409847108) 2021
